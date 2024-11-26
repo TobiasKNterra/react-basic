@@ -1,0 +1,28 @@
+.container {
+    height: 90vh;
+    width: 90vw;
+    margin-left: 5vw;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+}
+
+.container > h1 {
+    text-align: center;
+    font-size: 3rem;
+    color: #008aff;
+    text-decoration: underline;
+}
+
+.container > h2 {
+    font-size: 2rem;
+}
+
+
+.container > p {
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
