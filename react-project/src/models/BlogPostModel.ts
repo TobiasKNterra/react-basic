@@ -3,5 +3,5 @@ export default interface BlogPostModel {
   title: string;
   content: string;
   description: string;
-  date: string;
+  ts: string;
 }
