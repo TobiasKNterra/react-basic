@@ -83,15 +83,21 @@ git clone https://github.com/TobiasKNterra/react-basic
 
 ## Starten des React-Projekts:
 
-2. Verzeichnis wechseln:
+1. Verzeichnis wechseln:
    ```bash
    cd react-project
    ```
-3. Installiere die Abhängigkeiten:
+2. Installiere die Abhängigkeiten:
    ```bash
    yarn install
    ```
-4. Starte die Anwendung:
+3. Starte die Anwendung:
    ```bash
    yarn run dev
    ```
+
+## Ausführen der Tests:
+
+```bash
+yarn test
+```
