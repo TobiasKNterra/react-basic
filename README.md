@@ -6,10 +6,10 @@ Willkommen im Repository für das React- und TypeScript-Schulungsprojekt! In die
 
 ### 1. **TypeScript**
 
-- Einführung in TypeScript und seine Vorteile.
-- TypeScript ermöglicht es, statische Typen in JavaScript zu verwenden, was die Entwicklung sicherer und wartungsfreundlicher macht.
+- **TypeScript Basics**:
 
-### 2. **TypeScript Basics**
+  - Einführung in TypeScript und seine Vorteile.
+  - TypeScript ermöglicht es, statische Typen in JavaScript zu verwenden, was die Entwicklung sicherer und wartungsfreundlicher macht.
 
 - **Typen, Variablen und Funktionen**:
   - Typisierung von Variablen und Funktionen, um Fehler frühzeitig zu erkennen.
@@ -31,19 +31,20 @@ Willkommen im Repository für das React- und TypeScript-Schulungsprojekt! In die
   - Einführung in Komponenten, Props und State.
   - Handling von Benutzerinteraktionen und Zustandsverwaltung.
 - **React anwenden - Übungsprojekt**:
+
   - In diesem Teil der Schulung erstellst du ein einfaches Projekt mit React, um das Gelernte anzuwenden.
 
-### 4. **Testen von React-Komponenten**
+- **Testen von React-Komponenten**
 
-- Einführung in das Testen von React-Komponenten.
-- Nutzung von Testing-Libraries wie `Jest` und `React Testing Library`, um Tests für Komponenten zu schreiben.
-- Sicherstellen, dass die Komponenten wie erwartet funktionieren und Fehler schnell identifiziert werden können.
+  - Einführung in das Testen von React-Komponenten.
+  - Nutzung von Testing-Libraries wie `Jest` und `React Testing Library`, um Tests für Komponenten zu schreiben.
+  - Sicherstellen, dass die Komponenten wie erwartet funktionieren und Fehler schnell identifiziert werden können.
 
-### 5. **Anbindung einer Web-API**
+- **Anbindung einer Web-API**
 
-- **API-Integration in React**:
   - Wie man eine Web-API in eine React-Anwendung integriert.
   - Nutzung von `fetch`, um Daten von einer API abzurufen und sie in der React-Komponente darzustellen.
+
 - **Asynchrone Datenabrufe**:
   - Arbeiten mit `useEffect` und dem Zustand von React-Komponenten, um API-Aufrufe durchzuführen.
 
