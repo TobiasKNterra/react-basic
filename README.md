@@ -4,7 +4,7 @@ Willkommen im Repository für das React- und TypeScript-Schulungsprojekt! In die
 
 ## Inhalt der Schulung
 
-### 1. **TypeScript**
+### **TypeScript**
 
 - **TypeScript Basics**:
 
@@ -21,7 +21,7 @@ Willkommen im Repository für das React- und TypeScript-Schulungsprojekt! In die
   - Nutzung von Modulen und der Import/Export-Syntax in TypeScript.
   - Grundlagen der Asynchronität in TypeScript, zum Beispiel mit `async/await` und `Promises`.
 
-### 3. **Grundlagen React**
+### **Grundlagen React**
 
 - **Einstieg in React**:
   - Installation von React und den notwendigen Tools für die Entwicklung.
@@ -48,12 +48,14 @@ Willkommen im Repository für das React- und TypeScript-Schulungsprojekt! In die
 - **Asynchrone Datenabrufe**:
   - Arbeiten mit `useEffect` und dem Zustand von React-Komponenten, um API-Aufrufe durchzuführen.
 
-### 6. **Fragen und Weiteres**
+### **Fragen und Weiteres**
 
 - Fragen zu den behandelten Themen können in den Issues dieses Repositories gestellt werden.
 - Weitere Ressourcen und weiterführende Links werden bereitgestellt, um dein Wissen über React und TypeScript zu vertiefen.
 
-## Installation
+---
+
+### Installation
 
 Klone das Repository:
 
