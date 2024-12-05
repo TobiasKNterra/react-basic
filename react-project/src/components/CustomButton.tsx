@@ -1,12 +1,13 @@
 import styles from "./CustomButton.module.css";
+import {useState} from "react";
 
-export default function CustomButton(){
-  const buttonString:string = "Click me!";
-  const bittePrinteEtwasAufDerKonsole = () => {
-    console.log("Du hast mich geklickt!");
-  }
+interface CustomButtonProps {
+  buttonString: string;
+  onClick: () => void;
+}
 
+export default function CustomButton(props: CustomButtonProps){
   return (
-    <button className={styles.button} onClick={ () => console.log("du hast mich geklickt")} >{buttonString}</button>
+    <button className={styles.button} onClick={props.onClick} >{props.buttonString}</button>
   );
 }
