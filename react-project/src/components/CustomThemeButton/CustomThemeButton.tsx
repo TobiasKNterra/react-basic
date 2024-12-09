@@ -1,12 +1,15 @@
 import styles from "./CustomThemeButton.module.css";
 
-interface CustomThemeButtonProps {
+interface CustomButtonProps {
+  type: "primary" | "secondary" | "tertiary";
   text: string;
   onClick?: () => void;
-  type: "primary" | "secondary" | "tertiary";
 }
 
-export default function CustomThemeButton(props: CustomThemeButtonProps) {
-  return <button onClick={props.onClick} className={styles[props.type]}>{props.text}</button>
+export default function CustomThemeButton(props: CustomButtonProps) {
+  return (
+    <button className={styles[props.type]} onClick={props.onClick}>
+      {props.text}
+    </button>
+  );
 }
-
