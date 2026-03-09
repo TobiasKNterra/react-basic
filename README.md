@@ -83,6 +83,10 @@ git clone https://github.com/TobiasKNterra/react-basic
    ```bash
    node js/index.js
    ```
+   oder
+    ```bash
+   npm start
+   ```
 
 ## Starten des React-Projekts:
 
