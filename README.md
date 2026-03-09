@@ -92,15 +92,15 @@ git clone https://github.com/TobiasKNterra/react-basic
    ```
 2. Installiere die Abhängigkeiten:
    ```bash
-   yarn install
+   npm install
    ```
 3. Starte die Anwendung:
    ```bash
-   yarn run dev
+   npm run dev
    ```
 
 ## Ausführen der Tests:
 
 ```bash
-yarn test
+npm test
 ```
