@@ -42,30 +42,39 @@ console.log("Hallo TypeScript! \n");
 
 /**
  *
- * Übung 6: Interfaces und objects
+ * Übung 6: Arbeiten mit Arrays
  *******************************************/
-//console.log("\n******* Übung 6: interfaces und objects ******* \n");
+ // console.log("\n******* Übung 6: Arbeiten mit Arrays ******* \n");
+ const anArray: number[] = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15];
 
 
 
 /**
  *
- * Übung 7: Optionale Parameter
+ * Übung 7: Interfaces und objects
  *******************************************/
-//console.log("\n******* Übung 7: Optionale Parameter ******* \n");
+//console.log("\n******* Übung 7: interfaces und objects ******* \n");
 
 
 
 /**
  *
- * Übung 7: Module
+ * Übung 8: Optionale Parameter
  *******************************************/
-//console.log("\n******* Übung 7: Module ******* \n");
+//console.log("\n******* Übung 8: Optionale Parameter ******* \n");
 
 
 
 /**
  *
- * Übung 8: Asynchronität mit Promise
+ * Übung 9: Module
  *******************************************/
-//console.log("\n******* Übung 8: Asynchr. mit Promise ******* \n");
+//console.log("\n******* Übung 9: Module ******* \n");
+
+
+
+/**
+ *
+ * Übung 10: Asynchronität mit Promise
+ *******************************************/
+//console.log("\n******* Übung 10: Asynchr. mit Promise ******* \n");
